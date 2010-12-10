@@ -27,11 +27,11 @@
     <string name="wallpaper_magicsmoke">دود جادویی</string>
 
     <string name="author">گوگل</string>
-    <string name="magicsmoke_desc">دود، ابر، آب و پلاسما را به نمایش می‌گذارد.</string>
+    <string name="magicsmoke_desc">نمایش دود، ابرها، آب و پلاسما</string>
 
     <!-- button label -->
-    <string name="ok">قبول</string>
+    <string name="ok">خُب</string>
 
     <!-- overlay text -->
-    <string name="taptochange">برای تغییر لمس کنید</string>
+    <string name="taptochange">برای تغییر انتخاب کنید.</string>
 </resources>
